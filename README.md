@@ -53,5 +53,15 @@ THEN I should have proper build scripts for a webpack application
 The following animation demonstrates the application functionality:
 
 
+https://github.com/mhamze23/M19_TextEditor/assets/115047281/c1c14601-8227-45f3-9c91-b5fb5022e376
+
+![Screenshot 2023-05-10 at 8 12 38 PM](https://github.com/mhamze23/M19_TextEditor/assets/115047281/ace0d727-e517-4731-95e9-f2d365bacd61)
+
+![Screenshot 2023-05-10 at 8 13 12 PM](https://github.com/mhamze23/M19_TextEditor/assets/115047281/4ef13617-fffe-48bb-89b3-9efb438732a1)
+
+![Screenshot 2023-05-10 at 8 13 30 PM](https://github.com/mhamze23/M19_TextEditor/assets/115047281/e5932c47-582d-4fbf-b458-11fe3b29377b)
+
+![Screenshot 2023-05-10 at 8 14 13 PM](https://github.com/mhamze23/M19_TextEditor/assets/115047281/5e911a68-257b-4a46-8828-2183e824eb7a)
+
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
