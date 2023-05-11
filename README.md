@@ -54,7 +54,8 @@ THEN I should have proper build scripts for a webpack application
 The following animation demonstrates the application functionality:
 
 
-https://github.com/mhamze23/M19_TextEditor/assets/115047281/c1c14601-8227-45f3-9c91-b5fb5022e376
+https://github.com/mhamze23/M19_TextEditor/assets/115047281/a01f44b8-b079-4d2e-a23e-73484981dd2b
+
 
 ![Screenshot 2023-05-10 at 8 12 38 PM](https://github.com/mhamze23/M19_TextEditor/assets/115047281/ace0d727-e517-4731-95e9-f2d365bacd61)
 
