@@ -8,7 +8,7 @@ My task is to build a text editor that runs in the browser. The app will be a si
 
 To build this text editor, I'll start with an existing application and implement methods for getting and storing data to an IndexedDB database. I'll use a package called idb, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
-I will deploy this full-stack application to Heroku using the Heroku Deployment Guide on The Full-Stack Blog. https://module19-text-editor.herokuapp.com/
+I have deployed this full-stack application to Heroku using the Heroku Deployment Guide on The Full-Stack Blog. [Heruku] https://module19-text-editor.herokuapp.com/
 
 ## User Story
 
